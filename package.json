@@ -1,0 +1,12 @@
+{
+  "name": "itproger",
+  "version": "1.0.0",
+  "description": "NodeJs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "author": "Elena Spraiter",
+  "license": "ISC"
+}
